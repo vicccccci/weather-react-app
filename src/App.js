@@ -8,10 +8,10 @@ function App() {
         <Weather defaultCity="Munich" />
       </div>
       <footer className=" mt-3">
+    {" "}
         <a
           href="https://github.com/vicccccci/weather-react-app"
           target="_blank"
-          rel="noreferrer"
         >
           Open-source code
         </a>
