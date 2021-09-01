@@ -1,0 +1,12 @@
+.App footer {
+  text-align: center;
+  font-size: 14px;
+}
+
+.App a {
+  text-decoration: none;
+}
+
+.App a:hover {
+  text-decoration: underline;
+}
